@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './initCornerstone';
-import CornerstoneViewport from 'react-cornerstone-viewport';
+//import CornerstoneViewport from 'react-cornerstone-viewport';
+import CornerstoneViewport from '../src/components/CornerstoneViewport'
 import cornerstone from 'cornerstone-core';
 import cornerstoneTools from 'cornerstone-tools';
 
